@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.ttlnv {
+    padding: 20px;
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.ttlnv1 {
+    color: brown;
+    font-size: 50px;
+}
+
+.ttlnv2 {
+    font-size: 30px;
+}
+
+.ttlnv3{
+    padding: 10px;
+    background-color: rgb(250, 185, 7);
+    color: brown;
+    font-weight: 700;
+}
+hr {
+    margin: 50px 0;
+}
